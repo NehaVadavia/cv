@@ -35,21 +35,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Excellent experience in software support and troubleshooting skills
+      - item: Travelling with Friends & family
         link:
 
-        - item: Ability to adapt with a highly challenging work environment and perform accordingly Dedicated for customer service with a passion to provide the most efficient solutions to enhance work experience
+      - item: Making Craft 
         link:
 
-      - item: Excellent skills in multitasking and organizing daily schedule according to priority of tasks
-        link:
-
-      - item: Good communication, organizational, and time management skills
-        link:
-
-      - item: Skilled in working alone and as a team member
-        link:
-
+     
 
 career-profile:
     title: Career Profile
@@ -62,17 +54,17 @@ education:
       university: Parul Institute of Engg. And Tech.,
       time: 2017 with 8.16 CGPA
 
-    - degree: Gujrat Higher Secondary Certificate
+    - degree: Higher Secondary Certificate
       university: GHSEB
       time: 2013 with 60.15%
     
-    - degree: Gujarat Secondary School Certificate
+    - degree: Secondary School Certificate
       university: GSEB
       time: 2011 with 78%
 
 experiences:
     - role: Software Support Executive
-      time: 2016 - December
+      time: December 2016 - August 2018
       company: Compucare India Private Limited 
       details: Installing, maintaining and upgrading standard and custom software packages for individual and corporate clients. Providing online and remote assistance for technical faults. Maintaining updated records of daily activities and compile reports received from junior executives. Testing new applications and features, perform as QA task.
     
