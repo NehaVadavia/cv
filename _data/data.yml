@@ -68,6 +68,10 @@ experiences:
       company: Compucare India Private Limited 
       details: Installing, maintaining and upgrading standard and custom software packages for individual and corporate clients. Providing online and remote assistance for technical faults. Maintaining updated records of daily activities and compile reports received from junior executives. Testing new applications and features, perform as QA task.
     
+    - role: Technical Support Executive
+      time: May 2019 - Present
+      company: Dot 2 Dot Advertising Pvt Ltd. 
+      details: A professional approach in answering calls and provide information about products and services, taking input of issues and their redressal thereof. Maintaining records of transactions and interactions.Providing services are generally technical support or break/fix services that are delivered for specific software products.Typically include remote troubleshooting capabilities, installation assistance and basic usability assistance.
     
 
 projects:
@@ -78,10 +82,22 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Dream Ceremony
-        # link: 
-        tagline: This Website provides online booking of halls and party plots. Our website allows an organisation to advertise their facilities for online booking and decoration along with images and description; this lets people check availability of these facilities in a calendar schedule .Then user can book the halls and party plots as per their requirements.   
+      # - title: Dream Ceremony
+      #   # link: 
+      #   tagline: This Website provides online booking of halls and party plots. Our website allows an organisation to advertise their facilities for online booking and decoration along with images and description; this lets people check availability of these facilities in a calendar schedule .Then user can book the halls and party plots as per their requirements.   
                   
+      - title: Osmosis Ceramik 
+        link: https://www.osmosisceramik.com/
+        tagline: Developing a Web site for the import & export  wide range of products and size for the design of tiles with unrivalled technical, artistic and organisational standards.
+                  
+      - title: Earc Cosmetics
+        link: https://earccosmetics.com/
+        tagline: This is E-commerce project.In-depth knowledge of security protocols, secure payment gateways and other safety components applicable for e-trading websites. Strong knowledge of Content Management System, and Database. Hands on experience with graphic and animation designing and editing. 
+
+      - title: Generational Wealth
+        link: https://genwealthfinancialsolutions.com/index.html
+        tagline: Guide into a better financial situation, to transform relationship with money, and to improve financial situation for the long-haul. 
+       
       
 publications:
     title: Achievements
@@ -109,6 +125,9 @@ skills:
     toolset:
       - name: HTML5 & CSS
         level: 80%
+      
+      - name: Wordpress
+        level: 90%
 
       - name: C & C++
         level: 75%
@@ -121,6 +140,12 @@ skills:
 
       - name: MS SQL
         level: 70%
+
+      - name: Flutter
+        level: 80%
+
+      - name: Node Js
+        level: 75% 
 
     
 
