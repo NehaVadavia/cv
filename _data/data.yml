@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Neha Vadavia
-    tagline: Software Support Executive
+    tagline: Sr. Technical Software Support Executive
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,15 +63,15 @@ education:
       time: 2011 with 78%
 
 experiences:
+    - role: Sr. Technical Software Support Executive
+      time: May 2019 - Present
+      company: Dot 2 Dot Advertising Pvt Ltd. 
+      details: A professional approach in answering calls and provide information about products and services, taking input of issues and their redressal thereof. Maintaining records of transactions and interactions.Providing services are generally technical support or break/fix services that are delivered for specific software products.Typically include remote troubleshooting capabilities, installation assistance and basic usability assistance.
+
     - role: Software Support Executive
       time: December 2016 - August 2018
       company: Compucare India Private Limited 
       details: Installing, maintaining and upgrading standard and custom software packages for individual and corporate clients. Providing online and remote assistance for technical faults. Maintaining updated records of daily activities and compile reports received from junior executives. Testing new applications and features, perform as QA task.
-    
-    - role: Technical Support Executive
-      time: May 2019 - Present
-      company: Dot 2 Dot Advertising Pvt Ltd. 
-      details: A professional approach in answering calls and provide information about products and services, taking input of issues and their redressal thereof. Maintaining records of transactions and interactions.Providing services are generally technical support or break/fix services that are delivered for specific software products.Typically include remote troubleshooting capabilities, installation assistance and basic usability assistance.
     
 
 projects:
@@ -92,7 +92,7 @@ projects:
                   
       - title: Earc Cosmetics
         link: https://earccosmetics.com/
-        tagline: This is E-commerce project.In-depth knowledge of security protocols, secure payment gateways and other safety components applicable for e-trading websites. Strong knowledge of Content Management System, and Database. Hands on experience with graphic and animation designing and editing. 
+        tagline: This is E-commerce project. In-depth knowledge of security protocols, secure payment gateways and other safety components applicable for e-trading websites. Strong knowledge of Content Management System, and Database. Hands on experience with graphic and animation designing and editing. 
 
       - title: Generational Wealth
         link: https://genwealthfinancialsolutions.com/index.html
